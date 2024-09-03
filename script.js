@@ -18,7 +18,7 @@ function penjumlahan(Array){
     }
     let total3=0;
     for (let i = 0; i <Array.length;i++){
-        total +=arr[i];
+        total3 +=Array[i];
     }
     return total3;
 }
